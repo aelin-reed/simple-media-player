@@ -1,2 +1,2 @@
-# simple-media-player
-A Simple Media Player built using QT/C++
+# Simple QT Media Player
+A simple media player with an interface inspired by VLC. Built using QT/C++.
